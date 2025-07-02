@@ -8,11 +8,11 @@ O objetivo é desenvolver 50 pequenos projetos, praticando habilidades de front-
 
 ## ✅ Projetos concluídos
 
-| Nº | Projeto             | Status           | 🔗 Live Demo                          |
-|----|---------------------|------------------|--------------------------------------- |
-| 01 | Cartões Expansíveis | 🔄 Em andamento  |                                       |
-| 02 |                     | ⏳ Não iniciado   |                                       |
-| 03 |                     | ⏳ Não iniciado   |                                       | 
+| Nº | Projeto             | Status           | 🔗 Live Demo                          
+|----|---------------------|------------------|--------------------------------------- 
+| 01 | Cartões Expansíveis | ✅ finalizado    | Demo(https://ewertonfc.github.io/html-css-js-50projects/)  
+| 02 | Linha de Progresso  | 🔄 Em andamento   |                                       
+| 03 |                     | ⏳ Não iniciado   |                                        
 
 ---
 
