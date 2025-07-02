@@ -6,23 +6,6 @@ O objetivo é desenvolver 50 pequenos projetos, praticando habilidades de front-
 
 ---
 
-## 📁 Estrutura do Repositório
-
-Cada projeto tem sua própria pasta numerada, contendo os arquivos necessários (`index.html`, `style.css`, `script.js`, etc.).
-
-├── 01-Painéis Expansíveis/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-├── 02-/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-...
-
-
----
-
 ## ✅ Projetos concluídos
 
 | Nº | Projeto             | Status           | 🔗 Live Demo                          |
